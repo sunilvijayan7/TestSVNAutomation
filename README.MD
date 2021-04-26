@@ -23,3 +23,9 @@ Other Features
 </td>
 </tr>
 </table>
+
+<h4>Screens </h4>
+<p align="center">
+<img src="https://raw.githubusercontent.com/sunilvijayan7/TestSVN/master/Screenshots/EXECUTION.JPG" />
+<img src="https://raw.githubusercontent.com/sunilvijayan7/TestSVN/master/Screenshots/SVN.jpg" />
+</p>
